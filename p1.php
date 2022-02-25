@@ -13,7 +13,7 @@
   <table>
     <form method = "POST" onsubmit= "return Print_Info()">
       <tr>
-        <td> <label for = "name">Nick Name : </label> </td>
+        <td> <label for = "name">Full Name : </label> </td>
         <td>
           <input type="text" name="UserName" id="UserName" placeholder="Enter Name" />
         </td>
